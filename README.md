@@ -1,1 +1,1 @@
-![example workflow](https://github.com/mluukkai/ohtu-2021-java-viikko1/actions/workflows/gradle.yml/badge.svg)
+![example workflow](https://github.com/mluukkai/ohtu-2021-java-viikko1/actions/workflows/gradle.yml/badge.svg) [![codecov](https://codecov.io/gh/mluukkai/ohtu-2021-java-viikko1/branch/main/graph/badge.svg?token=EsjMTYpyJl)](https://codecov.io/gh/mluukkai/ohtu-2021-java-viikko1)

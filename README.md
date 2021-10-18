@@ -1,0 +1,1 @@
+![example workflow](https://github.com/mluukkai/ohtu-2021-java-viikko1/actions/workflows/gradle.yml/badge.svg)
